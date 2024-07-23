@@ -9,3 +9,6 @@ command "python app.py"
 
 
 Change the path of the model according to your os.
+## The link of our website is given below which is hosted in huggingface space
+
+https://huggingface.co/spaces/PankajSadhukhan/career-prediction
